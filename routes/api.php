@@ -1,8 +1,8 @@
 <?php
-use App\Http\Controllers\CosmeticController;
-use App\Http\Controllers\CategoryController;
-use App\Http\Controllers\BrandController;
-use App\Http\Controllers\BookingTransactionController;
+use App\Http\Controllers\Api\CosmeticController;
+use App\Http\Controllers\Api\CategoryController;
+use App\Http\Controllers\Api\BrandController;
+use App\Http\Controllers\Api\BookingTransactionController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
